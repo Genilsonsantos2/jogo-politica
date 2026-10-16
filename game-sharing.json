@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "defaultCaptions": {},
+  "assets": {
+    "og": "assets/game/share_cover.png",
+    "favicon": "assets/game/favicon.png"
+  },
+  "title": "Brasil em Jogo",
+  "description": "Simulação offline de cidadania e gestão pública no Brasil, com mapa, decisões políticas e urna eleitoral fictícia."
+}

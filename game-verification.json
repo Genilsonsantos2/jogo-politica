@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "checks": [
+    {
+      "kind": "script",
+      "path": "res://test/brasil_em_jogo_smoke.gd",
+      "expect": "[brasil-em-jogo-tests] PASS:",
+      "profile": "source"
+    },
+    {
+      "kind": "script",
+      "path": "res://tools/verify_exported_pack.gd",
+      "expect": "[exported-pack] PASS:",
+      "profile": "pack"
+    }
+  ]
+}
